@@ -19,7 +19,7 @@ Les branches sont structurées de manière à correspondre aux vidéos du cours.
 1. Pour utiliser ces fichiers d’exercice, vous avez besoin de logiciels décrits dans la vidéo sur les fichiers d’exercice.
 2. Clonez ce dossier Repository sur votre machine locale (Mac), CMD (Windows), ou sur un outil GUI tel que SourceTree. 
 
-### Formateur
+## Formateur
 
 **Sylvain Labasse** 
 
