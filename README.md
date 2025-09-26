@@ -6,6 +6,8 @@ Ce dossier Repository est lié au cours `Déployer une application Django`. Le c
 
 Maîtrisez le déploiement, la sécurisation et la gestion des applications Django dans un environnement de production. Cette formation vous guide pas à pas, depuis la préparation de l’environnement jusqu’au déploiement à grande échelle, en passant par la configuration d’un serveur, l'installation de PostgreSQL et l'intégration de Gunicorn et Nginx. Vous apprendrez également à utiliser des outils de monitoring, à déployer dans le cloud, à conteneuriser l’application avec Docker, et à gérer le stockage et les clusters Kubernetes pour une scalabilité optimale. À l’issue de cette formation, vous serez prêt à déployer des applications Django performantes et sécurisées dans des environnements de production complexes.
 
+La meilleure façon d'apprendre un langage est de l'utiliser dans la pratique. C'est pourquoi ce cours est intégré à GitHub Codespaces, un environnement de développement instantané « dans le nuage » qui offre toutes les fonctionnalités de votre IDE préféré sans nécessiter de configuration sur une machine locale. Avec Codespaces, vous pouvez vous exercer à partir de n'importe quelle machine, à tout moment, tout en utilisant un outil que vous êtes susceptible de rencontrer sur votre lieu de travail. 
+
 ## Instructions
 
 Ce dossier Repository a des branches pour chacune des vidéos du cours. Vous pouvez utiliser le menu des Branches sur GitHub afin d’accéder aux passages qui vous intéressent. Vous pouvez également rajouter `/tree/BRANCH_NAME` à l’URL afin d’accéder à la branche qui vous intéresse. 
